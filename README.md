@@ -1,1 +1,1 @@
-# INFINITE_RUNNER2_nithin
+# project-38-INFINTE-RUNNER-GAME
